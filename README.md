@@ -1,10 +1,5 @@
 # 🏠 Housing Price Prediction using Linear Regression
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![NumPy](https://img.shields.io/badge/NumPy-Latest-013243.svg)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Latest-150458.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 A comprehensive implementation of **Simple and Multiple Linear Regression** from scratch using gradient descent to predict California housing prices. This project demonstrates fundamental machine learning concepts without relying on scikit-learn's built-in models.
 
 ## 📋 Table of Contents
@@ -410,30 +405,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 - [TensorFlow Linear Regression](https://www.tensorflow.org/tutorials)
 
-## 📧 Contact
-
-**Project Maintainer**: Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ## 🌟 Show Your Support
 
 If this project helped you learn or solve a problem, please consider:
 
-- ⭐ **Starring** the repository
-- 🍴 **Forking** for your own projects
-- 📢 **Sharing** with others who might find it useful
-- 💬 **Providing feedback** through issues
-
----
-
-<div align="center">
-
-**Made with ❤️ and Python**
-
-[Report Bug](https://github.com/yourusername/housing-price-prediction/issues) • 
-[Request Feature](https://github.com/yourusername/housing-price-prediction/issues) • 
-[Documentation](https://github.com/yourusername/housing-price-prediction/wiki)
-
-</div>
+-  **Starring** the repository
+-  **Forking** for your own projects
+-  **Sharing** with others who might find it useful
+-  **Providing feedback** through issues
